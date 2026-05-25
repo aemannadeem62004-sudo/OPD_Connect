@@ -1,0 +1,26 @@
+# OS metadata files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Thumbs.db:encryptable
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# Server Logs & Temp Files
+error_log
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# XAMPP / Backup files
+*.bak
+*.tmp
+*.temp
+config/db.php
